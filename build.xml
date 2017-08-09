@@ -8,7 +8,7 @@
 
 	<target name="full-build" depends="prepare" description="Performs static analysis, runs the tests, and generates project documentation" />
 
-	<target name="quick-build" depends="prepare,lint,phpunit-no-coverage" description="Performs a lint check and runs the tests (without generating code coverage reports)" />
+	<target name="quick-build" depends="prepare,lint" description="Performs a lint check and runs the tests (without generating code coverage reports)" />
 
 	<target name="clean" unless="clean.done" description="Cleanup build artifacts">
 		<delete dir="${basedir}/build/api" />
