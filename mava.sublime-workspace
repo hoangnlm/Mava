@@ -1,0 +1,991 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"arr",
+				"array_diff"
+			],
+			[
+				"Bi",
+				"Blade::elseif\tBlade @elseif"
+			],
+			[
+				"Blad",
+				"Blade::can\tBlade @can"
+			],
+			[
+				"get",
+				"get\t$.get()"
+			],
+			[
+				"l",
+				"lorem\tLorem ipsum"
+			],
+			[
+				"bg",
+				"bg+\tbackground: ${1:#fff} url(${2}) ${3:0} ${4:0} ${5:no-repeat};"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"h3",
+				"h3\tTag"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"pr",
+				"preg_match"
+			],
+			[
+				"Log",
+				"Log::info(\"Request\t(MailController.php)"
+			],
+			[
+				"u",
+				"url"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"new",
+				"new_pw"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"Res",
+				"responseText"
+			],
+			[
+				"x",
+				"xhttp"
+			],
+			[
+				"mo",
+				"modal_div"
+			],
+			[
+				"se",
+				"search_arr"
+			],
+			[
+				"text",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/User/build/test.sublime-build",
+					""
+				],
+				[
+					"Packages/User/build/test2.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/build/test.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "key",
+		"selected_items":
+		[
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"start",
+				"SublimeServer: Start SublimeServer"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"k",
+				"FindKeyConflicts: Overlap Conflicts"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings"
+			],
+			[
+				"emmet",
+				"Emmet: Reflect CSS Value"
+			],
+			[
+				"todo",
+				"TodoReview: Project Files"
+			],
+			[
+				"linter",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"new fi",
+				"File: New File Relative to Current View"
+			],
+			[
+				"setti",
+				"Preferences: Settings"
+			],
+			[
+				"sett",
+				"Preferences: Settings"
+			],
+			[
+				"key ch",
+				"Keymaps: Cheat Sheet"
+			],
+			[
+				"confl",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"emm",
+				"Emmet: Remove Tag"
+			],
+			[
+				"html",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"mar",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"lin",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"doc",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"js",
+				"JSHint"
+			],
+			[
+				"es",
+				"Build With: ESLint"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"jsli",
+				"JSLint"
+			],
+			[
+				"",
+				"Browser Integration: Reload"
+			],
+			[
+				"bro",
+				"Browser Integration: Launch Browser"
+			],
+			[
+				"settin",
+				"Preferences: Settings"
+			],
+			[
+				"live",
+				"LiveReload: Self test"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"form",
+				"phpfmt: format now"
+			],
+			[
+				"for",
+				"phpfmt: format now"
+			],
+			[
+				"phpfmt",
+				"phpfmt: analyse this"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"phpfmt: to",
+				"phpfmt: look for .php.tools.ini"
+			],
+			[
+				"format",
+				"phpfmt: format now"
+			],
+			[
+				"phpcs",
+				"PHP Coding Standards Fixer: Fix this file (PHP Code Beautifier)"
+			],
+			[
+				"phpbe",
+				"PHP Coding Standards Fixer: Fix this file (PHP Code Beautifier)"
+			],
+			[
+				"code",
+				"CodeFormatter: Format as PHP Syntax"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"package con",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"brace",
+				"BracketHighlighter: Select Next Attribute (left)"
+			],
+			[
+				"auto",
+				"AutoFileName: Default Settings"
+			],
+			[
+				"text",
+				"Text Pastry: Menu"
+			],
+			[
+				"blad",
+				"Snippet: Blade @if"
+			],
+			[
+				"lara",
+				"Set Syntax: Laravel Blade"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"repo",
+				"Package Control: Add Repository"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"rn",
+				"File: Rename"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"br",
+				"SFTP: Browse Server…"
+			],
+			[
+				"syn",
+				"Set Syntax: JSON"
+			],
+			[
+				"bros",
+				"SFTP: Browse Server…"
+			],
+			[
+				"eslin",
+				"ESLint"
+			],
+			[
+				"show al",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"li",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"liv",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"star",
+				"SublimeServer: Start SublimeServer"
+			],
+			[
+				"pki",
+				"Package Control: Install Package"
+			],
+			[
+				"subliserver",
+				"SublimeServer: Restart SublimeServer"
+			],
+			[
+				"inspk",
+				"Package Control: Install Package"
+			],
+			[
+				"keycon",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"gitgu",
+				"GitGutter: Support Info"
+			],
+			[
+				"su",
+				"Sublimerge: Show Uncommited Changes..."
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"git cha",
+				"Git: Change Branch"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"git br",
+				"Git: Change Branch"
+			],
+			[
+				"git:",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git cus",
+				"Git: Custom Command"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"find",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"ins",
+				"FindKeyConflicts: Single Package Conflicts"
+			],
+			[
+				"em",
+				"Emmet: Merge Lines"
+			],
+			[
+				"new file",
+				"File: New File Relative to Current View"
+			],
+			[
+				"new fil",
+				"File: New File Relative to Current View"
+			],
+			[
+				"snippet",
+				"Snippet: html"
+			],
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"file",
+				"File History: Open recently closed file… (Current Project)"
+			],
+			[
+				"orig",
+				"Origami: Clone File to Pane on the Left"
+			],
+			[
+				"prefer",
+				"Preferences: Settings"
+			],
+			[
+				"termi",
+				"Preferences: Terminal Settings – Default"
+			],
+			[
+				"pack",
+				"Package Control: Remove Repository"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack ad",
+				"Package Control: Add Repository"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"or",
+				"File History: Open recently closed file… (Current Project)"
+			],
+			[
+				"file his",
+				"File History: Open most recently closed file"
+			],
+			[
+				"Git: st",
+				"Git: Status"
+			],
+			[
+				"fh",
+				"File History: Open recently closed file… (Current Project)"
+			],
+			[
+				"a file",
+				"A File Icon: Revert to a Freshly Installed State"
+			],
+			[
+				"A File",
+				"A File Icon: Settings"
+			],
+			[
+				"A file",
+				"A File Icon: Revert to a Freshly Installed State"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 534.0
+	},
+	"console":
+	{
+		"height": 322.0,
+		"history":
+		[
+			"sublime.executable_path()",
+			"=",
+			"===",
+			"=====",
+			"====",
+			"===========",
+			"os.system('clear')",
+			"clear",
+			"cls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Hoang/Documents/PHP/Projects/mava"
+	],
+	"file_history":
+	[
+		"/Users/Hoang/NetBeansProjects/Laravel1/public/index.php",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/Emmet/Default (OSX).sublime-keymap",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/Hoang/NetBeansProjects/Laravel1/public/css/test.css",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/Users/Hoang/NetBeansProjects/Laravel1/public/css/test_css\\\\hehe.css",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/Hoang/NetBeansProjects/Laravel1/public/css/hehe/hehe.css",
+		"/Users/Hoang/NetBeansProjects/Laravel1/public/js/bannn.js",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/User/.jsbeautifyrc",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/Hoang/NetBeansProjects/Laravel1/index.html",
+		"/Users/Hoang/NetBeansProjects/Laravel1/readme.md",
+		"/Users/Hoang/NetBeansProjects/Laravel1/readme.html",
+		"/Users/Hoang/NetBeansProjects/Laravel1/resources/assets/js/app.js",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/User/.eslintrc",
+		"/Users/Hoang/NetBeansProjects/Laravel1/resources/assets/js/bootstrap.js",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/User/HTMLPrettify.sublime-settings",
+		"/Users/Hoang/NetBeansProjects/Laravel1/.eslintrc.json",
+		"/Users/Hoang/NetBeansProjects/Laravel1/package.json",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/User/. jshintrc.json",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/JSHint Gutter/.jshintrc",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/User/JSLint.sublime-settings",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/JSLint/JSLint.sublime-settings",
+		"/Users/Hoang/NetBeansProjects/Laravel1/app/Http/Controllers/ReviewController.php",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/BrowserIntegration/BrowserIntegration.sublime-settings",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (OSX).sublime-keymap",
+		"/Users/Hoang/NetBeansProjects/Laravel1/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/app/Http/Controllers/Api/DogsController.php",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/Origami/Default (OSX).sublime-keymap",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/phpfmt/Default.sublime-keymap",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/User/phpfmt.sublime-settings",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/phpfmt/message",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/phpfmt/phpfmt.sublime-settings",
+		"/Users/Hoang/NetBeansProjects/Laravel1/resources/views/layouts/app.blade.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/app/Http/Controllers/TaskController.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/public/js/app.js",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/User/CodeFormatter.sublime-settings",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/CodeFormatter/CodeFormatter.sublime-settings",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/Hoang/NetBeansProjects/Laravel1/public/css/app.css",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/User/TodoReview.sublime-settings",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/TodoReview/TodoReview.sublime-settings",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/BufferScroll/BufferScroll.sublime-settings",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/Hoang/NetBeansProjects/Laravel1/sftp-config.json",
+		"/Users/Hoang/NetBeansProjects/Laravel1/app/Http/Controllers/Controller.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/vendor/laravel/framework/src/Illuminate/Routing/Controller.php",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/Users/Hoang/NetBeansProjects/Laravel1/resources/assets/sass/app.scss",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/Hoang/NetBeansProjects/Laravel1/resources/views/home.blade.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/resources/views/welcome.blade.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/resources/views/welcome.blade",
+		"/Users/Hoang/NetBeansProjects/Laravel1/app/Http/Controllers/Api/./ahihi/../DogsController2.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/.sublime/SideBarEnhancements.json",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Settings/SideBarEnhancements.json",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/User/SublimeServer.sublime-settings",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/sftp_phpboy_tk",
+		"/Users/Hoang/NetBeansProjects/Laravel1/.env",
+		"/var/folders/6n/42s9zzc54z7gf57lgn3x0dkw0000gn/T/sublime-sftp-browse-1501727990/ftp_hoangpro_xyz/public_html/index.html",
+		"/Users/Hoang/NetBeansProjects/Laravel1/.gitattributes",
+		"/Users/Hoang/NetBeansProjects/Laravel1/Vagrantfile",
+		"/Users/Hoang/NetBeansProjects/Laravel1/Homestead.yaml",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/User/ftp_hoangpro_xyz",
+		"/Users/Hoang/NetBeansProjects/Laravel1/app/Http/Controllers/Auth/ForgotPasswordController.php",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/Hoang/NetBeansProjects/Laravel1/app/Http/Controllers/Api/DogsController2.php",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/Default (OSX).sublime-keymap",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Default (OSX).sublime-keymap",
+		"/Users/Hoang/NetBeansProjects/Laravel1/public/js/test.js",
+		"/Users/Hoang/NetBeansProjects/Laravel1/.gitignore",
+		"/Users/Hoang/NetBeansProjects/Laravel1/app/Http/Controllers/Auth/DogsController.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/laravel1.sublime-project",
+		"/Users/Hoang/NetBeansProjects/Laravel1/public/favicon.ico",
+		"/Users/Hoang/NetBeansProjects/Laravel1/routes/web.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/app/Http/Controllers/Api/testfile.js",
+		"/Users/Hoang/NetBeansProjects/Laravel1/vendor/laravel/framework/src/Illuminate/Auth/Console/MakeAuthCommand.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/testfile",
+		"/Users/Hoang/NetBeansProjects/Laravel1/node_modules/lodash/_hashHas.js",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/User/snippets/hello.sublime-snippet",
+		"/Users/Hoang/NetBeansProjects/Laravel1/vendor/laravel/framework/src/Illuminate/Http/Request.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/app/Http/Controllers/Auth/ResetPasswordController.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/app/Http/Controllers/TestController.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/app/Http/Controllers/Auth/LoginController.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/composer.json",
+		"/Users/Hoang/NetBeansProjects/Laravel1/app.js",
+		"/Users/Hoang/NetBeansProjects/Laravel1/app/Http/Controllers/Auth/RegisterController.php",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/Users/Hoang/Library/Application Support/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/Users/Hoang/NetBeansProjects/Laravel1/config/cache.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/config/filesystems.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/app/Http/Controllers/PhotoController.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/vendor/laravel/framework/src/Illuminate/Support/Str.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/vendor/laravel/framework/src/Illuminate/Support/helpers.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/storage/logs/laravel.log",
+		"/Users/Hoang/NetBeansProjects/Laravel1/vendor/laravel/framework/src/Illuminate/Support/Arr.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/vendor/laravel/framework/src/Illuminate/Support/HigherOrderTapProxy.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/storage/app/.gitignore",
+		"/Users/Hoang/NetBeansProjects/Laravel1/public/storage/.gitignore",
+		"/Users/Hoang/NetBeansProjects/Laravel1/app/Http/Controllers/MailController.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/config/services.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/resources/views/mail/home.blade.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/app/Mail/OrderShipped.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/app/Jobs/SendWelcomeEmail.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/config/mail.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/vendor/laravel/framework/src/Illuminate/Mail/Mailable.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/vendor/laravel/framework/src/Illuminate/Queue/SerializesModels.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/vendor/laravel/framework/src/Illuminate/Bus/Queueable.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/resources/views/mail/welcome.blade.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/config/queue.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/app/Http/Controllers/HomeController.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/resources/views/vendor/mail/markdown/message.blade.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/config/broadcasting.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/app/Providers/BroadcastServiceProvider.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/routes/channels.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/resources/views/mail/invoice/paid.blade.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/resources/views/vendor/mail/markdown/header.blade.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/resources/views/vendor/mail/markdown/layout.blade.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/app/Notifications/InvoicePaid.php",
+		"/Users/Hoang/NetBeansProjects/Laravel1/resources/views/vendor/mail/markdown/footer.blade.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<project>",
+			"/Users/Hoang/NetBeansProjects/Laravel1",
+			"/Users/Hoang/NetBeansProjects/Laravel1/vendor/laravel",
+			"/Volumes/C/inetpub/wwwroot/bigstars.vn/admin"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"url(",
+			"Navigation",
+			"top",
+			"ctrl+d",
+			"ctrl+shift+d",
+			"ctrl+d",
+			"\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\theheh\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\tbanh mi\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\tsai gon\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\tdac rout\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\tthom bo\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>",
+			"ctrl+t",
+			"super e",
+			"aria",
+			"button",
+			"class",
+			"alt+super+q",
+			"wrap",
+			"false",
+			"\"]\n",
+			".eslint",
+			"},\n",
+			"icon",
+			"Navbar",
+			"navbar",
+			"class",
+			"dogscontroller",
+			"color",
+			".test{\n  position: relative;\n}",
+			">\n",
+			"heheheheh",
+			"       $this->authorize(function(delete){\n            info('hahhe');\n        });",
+			"ctrl t",
+			"side bar",
+			"Response",
+			"\n     * Display a listing of the resource.\n     *\n     * @return \\Illuminate\\Http\\Respons",
+			"creating",
+			"\n        ",
+			"Laravel",
+			"url",
+			"Laravel",
+			"home.blade",
+			"id",
+			"^\\n",
+			"request",
+			"Request",
+			"request",
+			"HoangNLM",
+			"Htmlable",
+			"Route::get('task', 'TaskController@index');\nRoute::get('test', 'TestController@index');",
+			"remember_token",
+			"mix.js(",
+			">';",
+			"TaskController",
+			"config(",
+			"submit.*\\(",
+			"submitForm(",
+			"press(",
+			"type(",
+			"assertRedirectedTo",
+			"assertViewHas",
+			"assertDatabaseHas",
+			"\"\",",
+			"AuthenticatesUsers",
+			"Where to redirect users after login.\n     *\n     * @var string",
+			"tesUse",
+			"Controller",
+			"AuthenticatesUsers",
+			"Auth",
+			";\n",
+			"AuthenticatesUsers",
+			"ReviewController",
+			"TaskController",
+			"welcome",
+			"\"",
+			"form",
+			"Form",
+			"ncc",
+			"username",
+			"Notification",
+			"You cannot delete!",
+			"DESCRIPTION",
+			"<th>COLOR</th>",
+			"<th>SHOE NAME</th>",
+			"\t\t\t\t<th>SHOE NAME</th>\n\t\t\t\t<th>SHOE NAME</th>\n<th>SHOE NAME</th>",
+			"<th>No</th>",
+			"Add New",
+			"value=\"Update\"",
+			"value=\"Add\"",
+			"value=\"Back\"",
+			"Are you sure to delete ",
+			"Are you sure to delete this",
+			"Remove ALL",
+			"ctrl+b"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"Thông báo",
+			"Bạn không thể xóa!",
+			"<th>MÀU</th>",
+			"<th>TÊN GIÀY</th>",
+			"<th>STT</th>",
+			"Thêm mới",
+			"value=\"Cập nhật\"",
+			"value=\"Thêm vào\"",
+			"value=\"Quay lại\"",
+			"Bạn có chắc muốn xóa ",
+			"Xóa HẾT"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 192.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 253.0
+	},
+	"output.mde":
+	{
+		"height": 126.0
+	},
+	"output.paneltranformations":
+	{
+		"height": 126.0
+	},
+	"output.sftp":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "",
+	"project": "mava.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"haha",
+				"node_modules/lodash/_hashHas.js"
+			],
+			[
+				"testcon",
+				"app/Http/Controllers/TestController.php"
+			],
+			[
+				"",
+				"resources/assets/js/app.js"
+			],
+			[
+				"blad",
+				"resources/views/home.blade.php"
+			],
+			[
+				"web.php",
+				"routes/web.php"
+			],
+			[
+				"web.",
+				"node_modules/core-js/modules/web.immediate.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/F2-13-1508-T1/Sem1_2013/5.Project/ontime.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"visit",
+				"visit"
+			],
+			[
+				"visi",
+				"visit"
+			]
+		],
+		"width": 547.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 267.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
